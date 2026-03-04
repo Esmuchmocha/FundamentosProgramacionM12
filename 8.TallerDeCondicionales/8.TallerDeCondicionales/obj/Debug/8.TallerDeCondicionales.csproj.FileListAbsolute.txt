@@ -1,0 +1,7 @@
+C:\Dilan Sebastian Lopez Marin\FundamentosProgramacionM12\8.TallerDeCondicionales\8.TallerDeCondicionales\bin\Debug\8.TallerDeCondicionales.exe.config
+C:\Dilan Sebastian Lopez Marin\FundamentosProgramacionM12\8.TallerDeCondicionales\8.TallerDeCondicionales\bin\Debug\8.TallerDeCondicionales.exe
+C:\Dilan Sebastian Lopez Marin\FundamentosProgramacionM12\8.TallerDeCondicionales\8.TallerDeCondicionales\bin\Debug\8.TallerDeCondicionales.pdb
+C:\Dilan Sebastian Lopez Marin\FundamentosProgramacionM12\8.TallerDeCondicionales\8.TallerDeCondicionales\obj\Debug\8.TallerDeCondicionales.csproj.AssemblyReference.cache
+C:\Dilan Sebastian Lopez Marin\FundamentosProgramacionM12\8.TallerDeCondicionales\8.TallerDeCondicionales\obj\Debug\8.TallerDeCondicionales.csproj.CoreCompileInputs.cache
+C:\Dilan Sebastian Lopez Marin\FundamentosProgramacionM12\8.TallerDeCondicionales\8.TallerDeCondicionales\obj\Debug\8.TallerDeCondicionales.exe
+C:\Dilan Sebastian Lopez Marin\FundamentosProgramacionM12\8.TallerDeCondicionales\8.TallerDeCondicionales\obj\Debug\8.TallerDeCondicionales.pdb
