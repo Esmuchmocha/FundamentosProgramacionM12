@@ -1,0 +1,7 @@
+C:\Dilan Sebastian Lopez Marin\FundamentosProgramacionM12\ParcialNumero1\ParcialNumero1\bin\Debug\ParcialNumero1.exe.config
+C:\Dilan Sebastian Lopez Marin\FundamentosProgramacionM12\ParcialNumero1\ParcialNumero1\bin\Debug\ParcialNumero1.exe
+C:\Dilan Sebastian Lopez Marin\FundamentosProgramacionM12\ParcialNumero1\ParcialNumero1\bin\Debug\ParcialNumero1.pdb
+C:\Dilan Sebastian Lopez Marin\FundamentosProgramacionM12\ParcialNumero1\ParcialNumero1\obj\Debug\ParcialNumero1.csproj.AssemblyReference.cache
+C:\Dilan Sebastian Lopez Marin\FundamentosProgramacionM12\ParcialNumero1\ParcialNumero1\obj\Debug\ParcialNumero1.csproj.CoreCompileInputs.cache
+C:\Dilan Sebastian Lopez Marin\FundamentosProgramacionM12\ParcialNumero1\ParcialNumero1\obj\Debug\ParcialNumero1.exe
+C:\Dilan Sebastian Lopez Marin\FundamentosProgramacionM12\ParcialNumero1\ParcialNumero1\obj\Debug\ParcialNumero1.pdb
