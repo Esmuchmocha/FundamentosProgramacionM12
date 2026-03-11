@@ -1,0 +1,7 @@
+C:\Dilan Sebastian Lopez Marin\FundamentosProgramacionM12\9.CicloWhile\9.CicloWhile\bin\Debug\9.CicloWhile.exe.config
+C:\Dilan Sebastian Lopez Marin\FundamentosProgramacionM12\9.CicloWhile\9.CicloWhile\bin\Debug\9.CicloWhile.exe
+C:\Dilan Sebastian Lopez Marin\FundamentosProgramacionM12\9.CicloWhile\9.CicloWhile\bin\Debug\9.CicloWhile.pdb
+C:\Dilan Sebastian Lopez Marin\FundamentosProgramacionM12\9.CicloWhile\9.CicloWhile\obj\Debug\9.CicloWhile.csproj.AssemblyReference.cache
+C:\Dilan Sebastian Lopez Marin\FundamentosProgramacionM12\9.CicloWhile\9.CicloWhile\obj\Debug\9.CicloWhile.csproj.CoreCompileInputs.cache
+C:\Dilan Sebastian Lopez Marin\FundamentosProgramacionM12\9.CicloWhile\9.CicloWhile\obj\Debug\9.CicloWhile.exe
+C:\Dilan Sebastian Lopez Marin\FundamentosProgramacionM12\9.CicloWhile\9.CicloWhile\obj\Debug\9.CicloWhile.pdb
