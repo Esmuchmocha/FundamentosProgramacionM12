@@ -1,0 +1,7 @@
+C:\Users\B09S104est\source\repos\15.Ciclo_For\15.Ciclo_For\bin\Debug\15.Ciclo_For.exe.config
+C:\Users\B09S104est\source\repos\15.Ciclo_For\15.Ciclo_For\bin\Debug\15.Ciclo_For.exe
+C:\Users\B09S104est\source\repos\15.Ciclo_For\15.Ciclo_For\bin\Debug\15.Ciclo_For.pdb
+C:\Users\B09S104est\source\repos\15.Ciclo_For\15.Ciclo_For\obj\Debug\15.Ciclo_For.csproj.AssemblyReference.cache
+C:\Users\B09S104est\source\repos\15.Ciclo_For\15.Ciclo_For\obj\Debug\15.Ciclo_For.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\source\repos\15.Ciclo_For\15.Ciclo_For\obj\Debug\15.Ciclo_For.exe
+C:\Users\B09S104est\source\repos\15.Ciclo_For\15.Ciclo_For\obj\Debug\15.Ciclo_For.pdb
