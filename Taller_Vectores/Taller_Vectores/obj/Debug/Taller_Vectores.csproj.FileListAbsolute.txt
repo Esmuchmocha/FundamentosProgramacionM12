@@ -1,0 +1,7 @@
+C:\Users\B09S104est\source\repos\Taller_Vectores\Taller_Vectores\bin\Debug\Taller_Vectores.exe.config
+C:\Users\B09S104est\source\repos\Taller_Vectores\Taller_Vectores\bin\Debug\Taller_Vectores.exe
+C:\Users\B09S104est\source\repos\Taller_Vectores\Taller_Vectores\bin\Debug\Taller_Vectores.pdb
+C:\Users\B09S104est\source\repos\Taller_Vectores\Taller_Vectores\obj\Debug\Taller_Vectores.csproj.AssemblyReference.cache
+C:\Users\B09S104est\source\repos\Taller_Vectores\Taller_Vectores\obj\Debug\Taller_Vectores.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\source\repos\Taller_Vectores\Taller_Vectores\obj\Debug\Taller_Vectores.exe
+C:\Users\B09S104est\source\repos\Taller_Vectores\Taller_Vectores\obj\Debug\Taller_Vectores.pdb
